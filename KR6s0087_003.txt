@@ -1,35 +1,26 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:55.948851
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:38
 #+TITLE: 眾經目錄
 #+PROPERTY: CBETA_ID T55n2148
 #+PROPERTY: ID KR6s0087
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 55, No. 2148
 #+PROPERTY: VOL 55
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0087_T_003-0196c> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 眾經目錄卷第三¶
+眾經目錄卷第三¶
 ¶
 釋靜泰撰¶
 
-別生
-:PROPERTIES:
-:head: 別生(於大部內鈔出別行)
-:END:
-
+* 別生(於大部內鈔出別行)
 
 合八百一十部一千二百八十¶
 七卷¶
 
-大乘別生
-:PROPERTIES:
-:head: 大乘別生
-:END:
-
+** 大乘別生
 
 一百二十一部一百二十八卷¶
 
@@ -189,11 +180,7 @@
   * 大將軍神呪經一卷¶
 右四經出大灌頂經。¶
 
-大乘別生抄
-:PROPERTIES:
-:head: 大乘別生抄(一百一十七部一百三十七卷)
-:END:
-¶
+** 大乘別生抄(一百一十七部一百三十七卷)¶
 
   
   * 本行六波羅蜜經一卷¶
@@ -318,7 +305,6 @@
   * 三歸五戒神王名經一卷¶
   * 佛說諸大地獄果報經一卷¶
 
-小乘別出生
 已下小乘別出生(三百五十二部三百五十二卷)¶
 
   
@@ -704,11 +690,7 @@
   * 鍾磬貧乏經一卷¶
 右七十五經從出曜論別生。¶
 
-小乘別生抄
-:PROPERTIES:
-:head: 小乘別生抄
-:END:
-
+** 小乘別生抄
 
 二百一十三部三百二十六
 <pb:KR6s0087_T_003-0204c>¶
@@ -940,11 +922,7 @@
   * 阿難邠祁四時布施經一卷¶
 右四十一經是雜譬喻集抄。¶
 
-別集抄
-:PROPERTIES:
-:head: 別集抄
-:END:
-
+** 別集抄
 
 七部三百三十四卷¶
 
